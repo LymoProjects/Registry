@@ -8,7 +8,7 @@
     "license": "The Unlicense",
     "repository": "github.com/LymoProjects/joinMessage",
     "tags": [
-      "plugin", "native"
+      "plugin", "ll"
     ]
   }
 }
