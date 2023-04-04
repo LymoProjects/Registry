@@ -1,0 +1,15 @@
+{
+    "format_version": 1,
+    "tooth": "github.com/Tooth-Hub/LLDotNET",
+    "information": {
+        "name": "LiteLoader.NET",
+        "description": "LiteLoader bindings for .NET",
+        "author": "LiteLDev",
+        "license": "LGPL-3.0",
+        "repository": "github.com/LiteLDev/LiteLoader.NET",
+        "tags": [
+            "module",
+            "llnet"
+        ]
+    }
+}
